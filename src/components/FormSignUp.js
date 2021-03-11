@@ -34,7 +34,7 @@ function FormSignUp({submitForm, renderOptions}) {
                     >
                      Username   
                     </label>
-                    <input 
+                    <input
                         id="username"
                         type="text"
                         name="username"
